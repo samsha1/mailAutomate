@@ -1,0 +1,17 @@
+{
+  "name": "automated_mail",
+  "version": "1.0.0",
+  "description": "Automated Mail Sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samrat Shakya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "n-readlines": "^1.0.0",
+    "nodemailer": "^6.4.11",
+    "simple-node-logger": "^18.12.24"
+  }
+}
